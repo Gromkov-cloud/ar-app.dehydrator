@@ -39,6 +39,10 @@ body {
     font-size: 20px;
 }
 
+.models-list a.current {
+    color: rgb(172, 85, 85);
+}
+
 .models-list-open {
     position: absolute;
     right: 20px;
